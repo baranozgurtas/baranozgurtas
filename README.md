@@ -3,6 +3,7 @@
 Data professional with 3+ years of industry experience taking ML models from prototype to production, owning the full lifecycle from data ingestion through deployment and monitoring.
 
 🎓 MSc candidate in **Artificial Intelligence at the University of Zurich**, with a joint master's project at **ETH Zurich**.
+
 📍 Based in Zurich, open to relocation across the EU and UK.
 
 I work across three tracks: **Data Science** (predictive modelling, time-series forecasting, statistical evaluation), **ML Engineering** (RAG systems, model serving, MLOps and observability), and **Data Engineering** (streaming and batch data pipelines). The projects below are grouped that way.
