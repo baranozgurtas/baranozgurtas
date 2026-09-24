@@ -1,6 +1,6 @@
 # Hi, I'm Baran 👋
 
-Data professional with 3+ years of industry experience taking ML models from prototype to production, owning the full lifecycle from data ingestion through deployment and monitoring.
+Data professional with 4+ years of industry experience taking ML models from prototype to production, owning the full lifecycle from data ingestion through deployment and monitoring.
 
 🎓 MSc candidate in **Artificial Intelligence at the University of Zurich**, with a joint master's project at **ETH Zurich**.
 
